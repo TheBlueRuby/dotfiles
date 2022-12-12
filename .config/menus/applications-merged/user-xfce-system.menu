@@ -1,0 +1,29 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>xfce-system</Name>
+    <Directory>xfce-system.directory</Directory>
+    <Include>
+        <Filename>Thunar-bulk-rename.desktop</Filename>
+        <Filename>gdebi.desktop</Filename>
+        <Filename>debian-uxterm.desktop</Filename>
+        <Filename>debian-xterm.desktop</Filename>
+        <Filename>network.desktop</Filename>
+        <Filename>ubiquity.desktop</Filename>
+        <Filename>Thunar.desktop</Filename>
+        <Filename>users.desktop</Filename>
+        <Filename>lightdm-gtk-greeter-settings.desktop</Filename>
+        <Filename>time.desktop</Filename>
+        <Filename>gparted.desktop</Filename>
+        <Filename>synaptic.desktop</Filename>
+        <Filename>ntfs-config.desktop</Filename>
+        <Filename>thunar-bulk-rename.desktop</Filename>
+        <Filename>firewall-config.desktop</Filename>
+        <Filename>conky.desktop</Filename>
+        <Filename>htop.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

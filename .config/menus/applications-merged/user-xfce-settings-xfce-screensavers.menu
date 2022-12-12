@@ -1,0 +1,32 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>xfce-settings</Name>
+    <Directory>xfce-settings.directory</Directory>
+<Menu>
+    <Name>xfce-screensavers</Name>
+    <Directory>xfce-screensavers.directory</Directory>
+    <Include>
+        <Filename>lite-autologin.desktop</Filename>
+        <Filename>lite-desktop.desktop</Filename>
+        <Filename>lite-info.desktop</Filename>
+        <Filename>lite-sounds.desktop</Filename>
+        <Filename>lite-sources.desktop</Filename>
+        <Filename>lite-updatesnotify.desktop</Filename>
+        <Filename>lite-upgrade.desktop</Filename>
+        <Filename>lite-usermanager.desktop</Filename>
+        <Filename>lite-welcome.desktop</Filename>
+        <Filename>firewall-config.desktop</Filename>
+        <Filename>lite-dpi.desktop</Filename>
+        <Filename>lite-widget.desktop</Filename>
+        <Filename>lite-firewallconfig.desktop</Filename>
+        <Filename>orca-settingsll.desktop</Filename>
+        <Filename>onboard-settings.desktop</Filename>
+        <Filename>org.bluesabre.Mugshot.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>
+</Menu>

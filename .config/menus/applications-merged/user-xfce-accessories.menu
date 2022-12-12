@@ -1,0 +1,22 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>xfce-accessories</Name>
+    <Directory>xfce-accessories.directory</Directory>
+    <Include>
+        <Filename>xfce4-taskmanager.desktop</Filename>
+        <Filename>menulibre.desktop</Filename>
+        <Filename>lightdm-gtk-greeter-settings.desktop</Filename>
+        <Filename>org.gnome.DiskUtility.desktop</Filename>
+        <Filename>xfburn.desktop</Filename>
+        <Filename>thunar.desktop</Filename>
+        <Filename>info.desktop</Filename>
+        <Filename>exo-terminal-emulator.desktop</Filename>
+        <Filename>exo-file-manager.desktop</Filename>
+        <Filename>lite-manual.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>

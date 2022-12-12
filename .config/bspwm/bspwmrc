@@ -1,0 +1,21 @@
+#!/bin/bash
+
+xsetroot -cursor_name left_ptr
+sxhkd &
+
+bspc config border_width 4
+bspc config window_gap 5
+
+bspc config split_ratio 0.5
+bspc config focus_follows_pointer true
+bspc config pointer_modifier mod1
+
+bspc config automatic_scheme spiral
+
+exec --no-startup-id nm-applet
+
+sudo systemctl start x11vnc
+
+picom -b
+
+nitrogen --restore

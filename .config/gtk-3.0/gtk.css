@@ -1,0 +1,3 @@
+/* Remove dotted lines from GTK+ 3 applications */
+scrolledwindow undershoot.top, scrolledwindow undershoot.right, scrolledwindow undershoot.bottom, scrolledwindow undershoot.left { background-image: none; }
+

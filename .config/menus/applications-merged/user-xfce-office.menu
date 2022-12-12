@@ -1,0 +1,18 @@
+<!DOCTYPE Menu PUBLIC "-//freedesktop//DTD Menu 1.0//EN"
+    "http://www.freedesktop.org/standards/menu-spec/menu-1.0.dtd">
+<!-- Do not edit manually - generated and managed by xdg-desktop-menu -->
+<Menu>
+    <Name>Applications</Name>
+<Menu>
+    <Name>xfce-office</Name>
+    <Directory>xfce-office.directory</Directory>
+    <Include>
+        <Filename>libreoffice-draw.desktop</Filename>
+        <Filename>libreoffice-startcenter.desktop</Filename>
+        <Filename>evince.desktop</Filename>
+        <Filename>libreoffice7.2-startcenter.desktop</Filename>
+        <Filename>libreoffice7.2-math.desktop</Filename>
+        <Filename>libreoffice7.2-draw.desktop</Filename>
+    </Include>
+</Menu>
+</Menu>
