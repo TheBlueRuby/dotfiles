@@ -3,8 +3,12 @@
 xsetroot -cursor_name left_ptr
 sxhkd &
 
-bspc config border_width 4
-bspc config window_gap 5
+bspc config border_width 1
+bspc config border_radius 12
+bspc config focused_border_color "#00AAFF"
+bspc config normal_border_color "#0055BB"
+
+bspc config window_gap 10
 
 bspc config split_ratio 0.5
 bspc config focus_follows_pointer true
