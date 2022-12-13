@@ -21,10 +21,10 @@ super + shift + q
     bspc node -k
 
 super + Return
-    xfce4-terminal
+    mlterm
 
 super + shift + Return
-    mlterm
+    xfce4-terminal
 
 super + d
     rofi -show run
