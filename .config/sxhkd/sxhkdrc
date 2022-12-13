@@ -16,6 +16,9 @@ super + shift + q
     bspc node -k
 
 super + Return
+    xfce4-terminal
+
+super + shift + Return
     mlterm
 
 super + d
