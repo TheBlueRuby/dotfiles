@@ -18,17 +18,6 @@ if [ -f /usr/share/powerline/bindings/bash/powerline.sh ]; then
     source /usr/share/powerline/bindings/bash/powerline.sh
 fi
 
-# Linux Lite Custom Terminal
-LLVER=$(awk '{print}' /etc/llver)
-
-echo -e "Welcome to $LLVER ${USER}"
-echo " "
-date "+%A %d %B %Y, %T"
-free -m | awk 'NR==2{printf "Memory Usage: %s/%sMB (%.2f%%)\n", $3,$2,$3*100/$2 }'
-df -h | awk '$NF=="/"{printf "Disk Usage: %d/%dGB (%s)\n", $3,$2,$5}'
-echo "Support - https://www.linuxliteos.com/forums/ (Right click, Open Link)"
-echo " "
-
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
