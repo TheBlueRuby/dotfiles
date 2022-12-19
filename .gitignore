@@ -17,4 +17,5 @@
 .config/Code
 .config/xfce4
 .config/ibus
+.config/Thunar
 *.backup
