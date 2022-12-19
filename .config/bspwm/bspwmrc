@@ -23,3 +23,6 @@ sudo systemctl start x11vnc
 picom -b
 
 nitrogen --restore
+
+#~/dotfiles/lemonbar.sh | lemonbar -p
+polybar --config=~/.config/polybar/config.ini pbar
