@@ -19,3 +19,4 @@
 .config/ibus
 .config/Thunar
 *.backup
+*.log
