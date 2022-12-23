@@ -24,5 +24,7 @@ picom -b
 
 nitrogen --restore
 
+mpd
+
 #~/dotfiles/lemonbar.sh | lemonbar -p
 polybar --config=~/.config/polybar/config.ini pbar

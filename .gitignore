@@ -18,5 +18,13 @@
 .config/xfce4
 .config/ibus
 .config/Thunar
+
+.mpd/mpd.db
+.mpd/mpd.pid
+.mpd/mpdstate
+.mpd/playlists/
+
+.ncmpcpp/lyrics/
+
 *.backup
 *.log
